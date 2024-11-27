@@ -1,0 +1,127 @@
+{
+  "cards": [
+    {
+      "id": 1,
+      "image": "./images/boy.png",
+      "imageAlt": "boy",
+      "title": "Balenciaga Floral-Print Silk Shirt",
+      "price": "$1565.00",
+      "actions": {
+        "buyNowButton": {
+          "text": "Buy Now",
+          "class": "btn text-lg font-semibold rounded-full bg-button-bg-color w-full"
+        },
+        "addToCartButton": {
+          "text": "Add to Card",
+          "class": "flex-1 border-stone-400 btn text-add-to-card-color text-lg font-semibold"
+        },
+        "wishlistIcon": {
+          "class": "fas fa-heart rounded-3xl p-2 border-solid border-2 text-xl text-red-600"
+        }
+      }
+    },
+    {
+      "id": 2,
+      "image": "./images/boy.png",
+      "imageAlt": "boy",
+      "title": "Balenciaga Floral-Print Silk Shirt",
+      "price": "$1565.00",
+      "actions": {
+        "buyNowButton": {
+          "text": "Buy Now",
+          "class": "btn text-lg font-semibold rounded-full bg-button-bg-color w-full"
+        },
+        "addToCartButton": {
+          "text": "Add to Card",
+          "class": "flex-1 border-stone-400 btn text-add-to-card-color text-lg font-semibold"
+        },
+        "wishlistIcon": {
+          "class": "fas fa-heart rounded-3xl p-2 border-solid border-2 text-xl text-red-600"
+        }
+      }
+    },
+    {
+      "id": 3,
+      "image": "./images/boy.png",
+      "imageAlt": "boy",
+      "title": "Balenciaga Floral-Print Silk Shirt",
+      "price": "$1565.00",
+      "actions": {
+        "buyNowButton": {
+          "text": "Buy Now",
+          "class": "btn text-lg font-semibold rounded-full bg-button-bg-color w-full"
+        },
+        "addToCartButton": {
+          "text": "Add to Card",
+          "class": "flex-1 border-stone-400 btn text-add-to-card-color text-lg font-semibold"
+        },
+        "wishlistIcon": {
+          "class": "fas fa-heart rounded-3xl p-2 border-solid border-2 text-xl text-red-600"
+        }
+      }
+    },
+    {
+      "id": 4,
+      "image": "./images/boy.png",
+      "imageAlt": "boy",
+      "title": "Balenciaga Floral-Print Silk Shirt",
+      "price": "$1565.00",
+      "isHiddenOnSmallScreens": true,
+      "actions": {
+        "buyNowButton": {
+          "text": "Buy Now",
+          "class": "btn text-lg font-semibold rounded-full bg-button-bg-color w-full"
+        },
+        "addToCartButton": {
+          "text": "Add to Card",
+          "class": "flex-1 border-stone-400 btn text-add-to-card-color text-lg font-semibold"
+        },
+        "wishlistIcon": {
+          "class": "fas fa-heart rounded-3xl p-2 border-solid border-2 text-xl text-red-600"
+        }
+      }
+    },
+    {
+      "id": 5,
+      "image": "./images/boy.png",
+      "imageAlt": "boy",
+      "title": "Balenciaga Floral-Print Silk Shirt",
+      "price": "$1565.00",
+      "isHiddenOnSmallScreens": true,
+      "actions": {
+        "buyNowButton": {
+          "text": "Buy Now",
+          "class": "btn text-lg font-semibold rounded-full bg-button-bg-color w-full"
+        },
+        "addToCartButton": {
+          "text": "Add to Card",
+          "class": "flex-1 border-stone-400 btn text-add-to-card-color text-lg font-semibold"
+        },
+        "wishlistIcon": {
+          "class": "fas fa-heart rounded-3xl p-2 border-solid border-2 text-xl text-red-600"
+        }
+      }
+    },
+    {
+      "id": 6,
+      "image": "./images/boy.png",
+      "imageAlt": "boy",
+      "title": "Balenciaga Floral-Print Silk Shirt",
+      "price": "$1565.00",
+      "isHiddenOnSmallScreens": true,
+      "actions": {
+        "buyNowButton": {
+          "text": "Buy Now",
+          "class": "btn text-lg font-semibold rounded-full bg-button-bg-color w-full"
+        },
+        "addToCartButton": {
+          "text": "Add to Card",
+          "class": "flex-1 border-stone-400 btn text-add-to-card-color text-lg font-semibold"
+        },
+        "wishlistIcon": {
+          "class": "fas fa-heart rounded-3xl p-2 border-solid border-2 text-xl text-red-600"
+        }
+      }
+    }
+  ]
+}
